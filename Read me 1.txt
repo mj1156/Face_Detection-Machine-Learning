@@ -1,0 +1,21 @@
+Face_detection_program - It is used for saving face detection images from video for HOG features extraction.
+
+HOG_Feature_extraction - 1)It is used for extracting HOG features from images
+2) Save features and labels as numpy array which is used for training purpose.
+
+haarcascade_frontalface_alt2 - It is cascade classifier file used in HOG_feature_extraction program.
+
+SVM_model_Training_confusion_matrix_program - It is used to train and save the SVM model. 
+
+SVM_face_classification_model.joblib - This file stored SVM model data.
+
+TestDataset_ROC - It is used for predicting labels for test dataset and generate ROC.
+
+Vide_live_labelling - It is used for live test video labelling. 
+
+Labels - It contains ground truth for test dataset 
+
+Video Segmentation Program - It is used for video segmentation for training and test videos.
+
+Dataset_distribution_plot - It is used to plot the Training DataSet Distribution .
+
