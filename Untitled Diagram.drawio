@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T12:06:54.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wN9zxVjYhxXUqVgtNr-m" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:08:12.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="KRr_I7k1Z1EZw8sxWMWB" version="21.6.7" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2075" dy="1838" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1368" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cloud App&lt;/font&gt;" style="rounded=1;fillColor=#1799dd;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1368" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Cloud App&lt;/font&gt;" style="rounded=1;fillColor=#97D077;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="167.5" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="grCsGURQMANJ224fvGqF-1551" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;Raw Data&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1699d3;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="grCsGURQMANJ224fvGqF-1574" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;Data Ingestion Module&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9933;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="grCsGURQMANJ224fvGqF-1577" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;App Raw Data&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1699d3;" parent="1" vertex="1">
+        <mxCell id="grCsGURQMANJ224fvGqF-1577" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;App Raw Data&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#97D077;" parent="1" vertex="1">
           <mxGeometry x="215" y="145" width="125" height="85" as="geometry" />
         </mxCell>
         <mxCell id="grCsGURQMANJ224fvGqF-1578" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;Model Registry&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1699d3;" parent="1" vertex="1">
